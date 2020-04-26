@@ -8,3 +8,7 @@ Make sure you python installed.
 Make an account in git and Heroku to run the application.
 In Heroku click on new web-app and also install Heroku CLI.
 Once you are done with the above steps continue to deploy by following the commands in the Heroku Deploy page.
+
+
+Link to the Application:
+http://fitness-scale.herokuapp.com/
